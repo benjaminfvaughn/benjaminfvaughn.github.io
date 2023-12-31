@@ -1,0 +1,4 @@
+baseURL = 'https://benjaminfvaughn.github.io/'
+languageCode = 'en-us'
+title = 'Benjamin Vaughn'
+theme = 'ananke'
