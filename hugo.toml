@@ -1,4 +1,12 @@
+title = 'Benjamin Vaughn'
 baseURL = 'https://benjaminfvaughn.github.io/'
 languageCode = 'en-us'
-title = 'Benjamin Vaughn'
 theme = 'ananke'
+
+DefaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    title = "Benjamin Vaughn"
+    weight = 1
+    contentDir = "content"
