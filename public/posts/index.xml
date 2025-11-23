@@ -2,19 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Benjamin Vaughn</title>
-    <link>https://benjaminfvaughn.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Benjamin Vaughn</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 30 Dec 2023 23:03:04 -0500</lastBuildDate><atom:link href="https://benjaminfvaughn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Dec 2024 08:23:44 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024-12-24</title>
+      <link>http://localhost:1313/posts/2024-12-24/</link>
+      <pubDate>Tue, 24 Dec 2024 08:23:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024-12-24/</guid>
+      <description>&lt;p&gt;Maybe I only have time to write over Christmas break. :)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2024-01-09</title>
+      <link>http://localhost:1313/posts/2024-01-09/</link>
+      <pubDate>Tue, 09 Jan 2024 21:45:54 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024-01-09/</guid>
+      <description>&lt;p&gt;Sometimes you don&amp;rsquo;t have anything to say. So, with nothing else to say, take a momement to appreciate that you can get weather forecast without annoying ads and tracking from your federal government.&lt;/p&gt;&#xA;&lt;p&gt;Link: &lt;a href=&#34;https://www.weather.gov/&#34;&gt;weather.gov&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2024-01-05</title>
+      <link>http://localhost:1313/posts/2024-01-05/2024-01-05/</link>
+      <pubDate>Fri, 05 Jan 2024 21:59:10 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024-01-05/2024-01-05/</guid>
+      <description>&lt;p&gt;Plain text should be simple. But for all of plain-text&amp;rsquo;s simplicity on one machine, once you want to sync these plain text files to your iOS device, it gets harder. As far as I know, there is only one app on iOS that allows you to work with plain-text files in the iOS file system and push and pull from a git server. That app is &lt;a href=&#34;https://workingcopy.app/&#34;&gt;Working Copy&lt;/a&gt;. While there is nothing to complain about Working Copy&amp;ndash;it&amp;rsquo;s probably one of the most powerful apps on the platform&amp;ndash;it bothers me there isn&amp;rsquo;t an alternative or competitor. If the sole author of Working Copy decides to retire, plain-text on the platform is ceases to work. All other options that I&amp;rsquo;m aware of require you to have an account on someone else&amp;rsquo;s server. I wish Working Copy had competition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2024-01-03</title>
+      <link>http://localhost:1313/posts/2024-01-03/</link>
+      <pubDate>Wed, 03 Jan 2024 22:43:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024-01-03/</guid>
+      <description>&lt;p&gt;Learning about embedding in Hugo.&lt;/p&gt;&#xA;&lt;p&gt;If I had to choose one band to listen to for the rest of my life, it would be Boards of Canada. This fan-made video chronicling Boards of Canada&amp;rsquo;s history is an expansive and in-depth look into their history. I&amp;rsquo;ve watched it multiple times.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PI3b6EEltD4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>2024-01-02</title>
+      <link>http://localhost:1313/posts/2024-01-02/</link>
+      <pubDate>Mon, 01 Jan 2024 21:50:25 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024-01-02/</guid>
+      <description>&lt;p&gt;My current understanding of what Hugo does:&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-01-02/flowchart.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;This page was built with a &lt;a href=&#34;https://gohugo.io/content-management/page-bundles/&#34;&gt;page bundle&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2024-01-01</title>
+      <link>http://localhost:1313/posts/2024-01-01/</link>
+      <pubDate>Sun, 31 Dec 2023 22:34:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024-01-01/</guid>
+      <description>&lt;p&gt;My favorite life hack from 2023 was learning about the online resources available with my library card. Through my library, I&amp;rsquo;m able to access O&amp;rsquo;Reilly, New York Times, auto repair manuals, LinkedIn Learning, WSJ, Washington Post, and plenty more. Everyone should have a library card and check which online resources are available. You pay for these resources through your taxes. Cancel a streaming service and spend that time you were wasting to learn someting new.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2023-12-31</title>
+      <link>http://localhost:1313/posts/2023-12-31/</link>
+      <pubDate>Sat, 30 Dec 2023 23:40:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023-12-31/</guid>
+      <description>&lt;p&gt;Growing up with the internet, I&amp;rsquo;ve had several blogging experiences. I remember having Blogspot, Tumblr, and Wordpress blogs. None of these contain anything worth reading today. But even though I wrote drivel, I&amp;rsquo;m glad I wrote. These gave me a sense that I had a &amp;ldquo;place&amp;rdquo; on the internet&amp;ndash;that I had made a mark on the universe&amp;ndash;that I &lt;em&gt;contributed&lt;/em&gt; to the &lt;em&gt;project&lt;/em&gt; of the internet. Lately, I&amp;rsquo;ve been feeling the urge to contribute again. And a desire that I could look backwards from today and see a continuous body of work that was (occasionally) improving. There&amp;rsquo;s no more cliche time than the new year to start something you wish you had already started.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>https://benjaminfvaughn.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 30 Dec 2023 23:03:04 -0500</pubDate>
-      
-      <guid>https://benjaminfvaughn.github.io/posts/my-first-post/</guid>
-      <description>Introduction Is 2024 the year of the blog? Let&amp;rsquo;s hope so!</description>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Is 2024 the year of the blog? &lt;strong&gt;Let&amp;rsquo;s hope so!&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
